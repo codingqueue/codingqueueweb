@@ -8,12 +8,12 @@ const RESOURCES = {
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/NOTICES": "b87e7ceb9de555cb3775cbfd1db2618c",
+"assets/NOTICES": "92afffd45afe95abf63a8530b949f282",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"index.html": "b68d72f3abf6174ea6cb66ef0b2b8c55",
-"/": "b68d72f3abf6174ea6cb66ef0b2b8c55",
+"index.html": "f8ef3596f0a6fc3f3e5f4d5b5eae62e3",
+"/": "f8ef3596f0a6fc3f3e5f4d5b5eae62e3",
 "version.json": "824abc18dab08b28f6c9d5d66ba4a6b1",
-"main.dart.js": "6230a14aa5d1480cd8dab75342c2690c",
+"main.dart.js": "f03afd7d9f0e99ed8440d3a49ab8457e",
 "manifest.json": "0f3570b653cbb8ab6b01535b32064ecb",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796"
 };
